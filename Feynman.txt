@@ -1,0 +1,9 @@
+A variable is like a jar that holds a piece of information. Each of these jars has a special shape so the piece of information fits it properly.
+
+A string is a variable that holds a set of letters, numbers, and punctuation. Sentences are one example of a string. A sentence is a collection of letters, symbols and numbers.
+
+A function is a set of instructions like a mathmatecal equation. In fact, one common use of functions is to hold sets of calculations to achieve a specific purpose. For example, I might create a function that adds two two a number. If i sent the function the number 7, it would send back the number 9. The number I give to the function to add two to is called an "argument". The number the function gives back is called the "return". In this example, 7 was the argument and 9 was the return.
+
+Imagine if you say to someone, "If I have money, I will go to the theater, or else I will go to the park." An "If" statement in programming is little different. You may write a statement that looks like "If money is greater than or equal to $6 return theater, else return park". In this pseudocode example, the computer is asked to evaluate the amount of money, and return an answer of either "theater" or "park", depending on wether there is $6 or more.
+
+A boolean value is tells if a statement is correct or not. In computer language, 1 means true and 0 means false. If I ask a computer if 1 equals 2, it will tell me that it is not true by returning a zero or "false". If i ask it if 1 is less than 2, it will reply with "true", represented by 1.  
